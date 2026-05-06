@@ -159,4 +159,4 @@ Possible improvements include:
 
 ## Academic Integrity / AI Usage Statement Template
 
-AI tools were used to help organize the project explanation, improve wording, and format the README and research paper. The experimental design, notebook implementation, results, and final responsibility for the submitted work remain with the student. The student should understand all code, methods, and reported results before submission.
+AI tools were used to help organize the project explanation, improve wording, and format the README and research paper.
